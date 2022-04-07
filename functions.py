@@ -126,7 +126,7 @@ def runAnalysis(sty, endy, n):
     config.make_output_dir()
 
     #create excel file
-    writer = pd.ExcelWriter(config.output_path +"/Analysis.xlsx", engine = 'xlsxwriter')
+    writer = pd.ExcelWriter(config.output_path +"/Baby Name Analysis.xlsx", engine = 'xlsxwriter')
     workbook = writer.book
 
     #copy dataframes in excel file and format files and create line charts 
@@ -134,5 +134,6 @@ def runAnalysis(sty, endy, n):
     excel_format.format_trend(female_top, 'Female_Trend',  workbook, writer,'Trend Top Female Name')
     excel_format.format_trend(male_top, 'Male_Trend',  workbook, writer,'Trend Top Male Name')
     
-    #save excel file
+    #save excel file and close 
+    workbook.close()
     writer.save()
