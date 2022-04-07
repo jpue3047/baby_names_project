@@ -8,7 +8,7 @@ Find top n names by gender ( n is defined by user). I used top 10 names
 Visualize top n names by gender
 Create excel file with analysis. Check folder "Output"
 
-# Scripts:
+# Scripts
 Main Script: main.py
 Supportive Scripts: 
   config.py : contains path files and function to create output folder
