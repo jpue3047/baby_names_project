@@ -3,9 +3,11 @@ United States Social Security Administration (SSA) has available data of frecuen
 http://www.ssa.gov/oact/babynames/html
 
 # Data Analysis
-Find the proportion of babies given a particular time frame defined by user ( sty and endy). For this analysis I used data from 2010 to 2020
-Find top n names by gender ( n is defined by user). I used top 10 names
-Visualize top n names by gender
+Download zip file from SSA UR, extract zip file, and saves text files in working directory.
+Create DataFrame based on time frame defined by user (sty and endy).For this analysis I use data from 2010 to 2020.
+Find the proportion of babies by gender.
+Find top n names by gender ( n is defined by user). I use top 10 names.
+Visualize top n names by gender.
 Create excel file with analysis. Check folder "Output"
 
 # Scripts
