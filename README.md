@@ -1,3 +1,3 @@
 # baby_names
 
-Main Script run.py
+Main Script main.py
