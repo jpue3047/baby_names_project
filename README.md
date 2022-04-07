@@ -14,8 +14,8 @@ Create excel file with analysis. Check folder "Output"
 Main Script: main.py
 
 Supportive Scripts: 
-  config.py : contains path files and function to create output folder
-  excel_format.py : contains functions related to excel formatting
-  functions.py: contains functions related to data wrangling
+  config.py : contains path files and function to create output folder.
+  excel_format.py : contains functions related to excel formatting.
+  functions.py: contains functions related to data wrangling.
 
 Output file: Output/ Baby Names Analysis.xlsx
