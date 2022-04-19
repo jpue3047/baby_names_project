@@ -19,5 +19,9 @@ Supportive Scripts:
   functions.py: contains functions related to data wrangling.
 
 # Output
+<img width="925" alt="Screen Shot 2022-04-19 at 3 44 26 PM" src="https://user-images.githubusercontent.com/54075153/164092579-1dd603bd-4cfb-46d8-b4db-24d9ef14b10b.png">
 
-Output file: Output/ Baby Names Analysis.xlsx
+<img width="1118" alt="Screen Shot 2022-04-19 at 3 44 52 PM" src="https://user-images.githubusercontent.com/54075153/164092789-5f7874ba-23e4-4cea-987a-4d297aa9ddde.png">
+
+
+See excel file detail in Output file: Output/ Baby Names Analysis.xlsx
