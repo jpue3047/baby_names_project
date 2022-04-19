@@ -18,4 +18,6 @@ Supportive Scripts:
   excel_format.py : contains functions related to excel formatting , 
   functions.py: contains functions related to data wrangling.
 
+# Output
+
 Output file: Output/ Baby Names Analysis.xlsx
